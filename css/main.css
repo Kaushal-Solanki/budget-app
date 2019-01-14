@@ -110,7 +110,7 @@ body {
     color: var(--mainGreen);
   }
   .expense {
-    font-size: 2.6rem;
+    font-size: 10px;
     color: var(--mainRed);
   }
   .balance {
