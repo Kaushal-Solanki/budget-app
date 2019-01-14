@@ -109,6 +109,9 @@ body {
     font-size: 2.6rem;
     color: var(--mainGreen);
   }
+  .text-uppercase.mt-2.expense{
+    font-size: 2.6rem;
+  }
   .expense {
     font-size: 10px;
     color: var(--mainRed);
